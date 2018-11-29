@@ -1,6 +1,7 @@
 {
-  "name": "hello-world",
+  "name": "vue-shop-ball",
   "version": "0.1.0",
+  "description": "Vue 添加购物车动效",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
